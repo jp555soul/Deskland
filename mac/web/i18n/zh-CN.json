@@ -1,0 +1,22 @@
+{
+  "ui": {
+    "autostart": "登录时自动启动",
+    "autostartTitle": "登录后自动运行 {app}",
+    "helpWallpaperQ": "画面没有跟着桌面图标变化，怎么办？",
+    "helpWallpaperA": "{app} 通过 macOS 的“辅助功能”权限从访达读取图标位置。未授权时，画面会按空桌面绘制。",
+    "helpWallpaperStep1": "打开 系统设置 → 隐私与安全性 → 辅助功能。",
+    "helpWallpaperStep2": "打开 {app} 的开关。如果已经打开但图标仍未生效（重新编译应用后会出现），请用“–”移除后重新添加。",
+    "helpWallpaperStep3": "在菜单栏的 {app} 图标里选择“重新载入”。",
+    "lockedTitle": "{name} · Deskland 壁纸版主题，此 Mac 版本不包含",
+    "purchaseTitle": "此 Mac 版本不包含该主题",
+    "purchaseTheme": "“{name}”属于 Windows 上的 Deskland 壁纸版。",
+    "purchaseMessage": "{app} 是开源 Deskland 体验版的非官方 macOS 版本，包含沙滩和草地。购买 Windows 壁纸版不会在这里解锁主题。",
+    "purchaseLater": "关闭",
+    "purchaseWebsite": "前往 deskland.app"
+  },
+  "host": {
+    "trayAutostart": "登录时自动启动",
+    "trayExit": "退出 {app}",
+    "trayAccess": "允许读取图标位置…"
+  }
+}

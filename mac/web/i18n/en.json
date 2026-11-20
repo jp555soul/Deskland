@@ -1,0 +1,22 @@
+{
+  "ui": {
+    "autostart": "Start at login",
+    "autostartTitle": "Run {app} automatically when you log in",
+    "helpWallpaperQ": "The scenery doesn't follow my desktop icons. How do I fix it?",
+    "helpWallpaperA": "{app} learns where your icons are from Finder through the macOS Accessibility permission. Until that is allowed, the scene is drawn as if the desktop were empty.",
+    "helpWallpaperStep1": "Open System Settings → Privacy & Security → Accessibility.",
+    "helpWallpaperStep2": "Turn on {app}. If it is already on but icons are still ignored (this happens after the app is rebuilt), remove it with “–” and add it again.",
+    "helpWallpaperStep3": "Choose Reload from the {app} menu bar icon.",
+    "lockedTitle": "{name} · Deskland Wallpaper edition theme, not part of this Mac build",
+    "purchaseTitle": "Not included in this Mac build",
+    "purchaseTheme": "“{name}” belongs to the Deskland Wallpaper edition for Windows.",
+    "purchaseMessage": "{app} is an unofficial macOS build of the open-source Deskland Preview, which contains Beach and Meadow. Buying the Windows Wallpaper edition does not unlock themes here.",
+    "purchaseLater": "Close",
+    "purchaseWebsite": "Visit deskland.app"
+  },
+  "host": {
+    "trayAutostart": "Start at login",
+    "trayExit": "Quit {app}",
+    "trayAccess": "Allow icon tracking…"
+  }
+}

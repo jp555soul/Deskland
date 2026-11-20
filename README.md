@@ -6,6 +6,8 @@ Deskland turns the space around your icons into a living landscape. Move, add or
 
 This is the **free, open-source Preview**, not a time-limited trial. It includes the complete **Beach** and **Meadow** themes, the Windows host, settings and sharing tools.
 
+> **macOS:** an experimental host lives in [`mac/`](mac/README.md). It reuses the theme pages unchanged; the Windows host is untouched.
+
 **English** · [简体中文](#中文说明) · [Official website](https://deskland.app) · [Features](#features) · [Build from source](#build-from-source)
 
 ![Meadow — included in Deskland Preview](docs/images/meadow.webp)

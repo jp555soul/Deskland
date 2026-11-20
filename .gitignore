@@ -9,3 +9,5 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+/mac/build/
+/mac/*.log
